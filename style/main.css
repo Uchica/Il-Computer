@@ -1,0 +1,23 @@
+body {
+	list-style-type: none;
+}
+h1 {
+	text-align: center;
+	font-size: 50px;
+	font-family: Bodoni;
+}
+h2 {
+	font-family: arial;
+	text-align: center;
+}
+nav li {
+	display: inline-block;
+	margin: 20px 210px 20px 80px;
+}
+nav {
+	background-color: burlywood;
+	font-family: sans-serif;
+}
+p {
+	font-family: arial;
+}
